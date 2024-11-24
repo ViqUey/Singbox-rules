@@ -3,11 +3,33 @@
   "rules": [
     {
       "domain": [
-        "sangtacviet.com",
-        "www.sangtacviet.com"
+        "cepsidsoagloko.net",
+        "cheechoups.net",
+        "rabsqfvnryc.com",
+        "my.rtmark.net"
       ],
       "domain_suffix": [
-        "sangtacviet.com"
+        "sangtacviet.com",
+        "game.sangtacviet.com",
+        "anl.sangtacviet.com",
+        "status.sangtacviet.com",
+        "proxy.sangtacviet.com",
+        "www.sangtacviet.com",
+        "ws.sangtacviet.com",
+        "d2.sangtacviet.com",
+        "static.sangtacviet.com",
+        "khôngbịchặn.sangtacviet.com",
+        "push.sangtacviet.com",
+        "forum.sangtacviet.com",
+        "tse.sangtacviet.com",
+        "mobile.sangtacviet.com",
+        "comic.sangtacviet.com",
+        "comicd.sangtacviet.com",
+        "read.sangtacviet.com",
+        "d.sangtacviet.com",
+        "d3.sangtacviet.com",
+        "static.sangtacvietcdn.xyz",
+        "comic.sangtacvietcdn.xyz"
       ]
     }
   ]
