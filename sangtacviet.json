@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "sangtacviet.com",
+        "www.sangtacviet.com"
+      ],
+      "domain_suffix": [
+        "sangtacviet.com"
+      ]
+    }
+  ]
+}
